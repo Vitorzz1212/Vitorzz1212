@@ -24,8 +24,10 @@ Estudante de **Engenharia de Software** no Centro Universitário Fametro, em Man
 |---|---|---|
 | [Liga Manager](https://github.com/mrvinicius25/liga-manager) | App desktop para gerenciar campeonatos de futebol: cadastro de equipes, geração de confrontos, placares e classificação automática. Projeto em dupla: implementei as classes `Equipe` e `Partida` e a tela de partidas e resultados | Python, CustomTkinter, POO, JSON, unittest |
 | [Zafir-site](https://github.com/Vitorzz1212/Zafir-site) · [ver online](https://zafir-perfumaria.vercel.app) | Landing page desenvolvida para a loja Zafir (projeto para cliente) | HTML, CSS, JavaScript |
+| [Zerando Manaus](https://github.com/cleciofjur/ZerandoManaus) · [jogar](https://zerando-manaus.vercel.app) | Jogo web educativo sobre Manaus, feito em equipe. Desenvolvi o sistema de quiz: 5 perguntas por fase, liberação da próxima fase com 70% de acertos, fases bloqueadas no mapa, XP e progresso salvo no navegador | HTML, CSS, JavaScript |
+| [CRUD PetShop](https://github.com/cleciofjur/CRUD-PetShop) | Sistema desktop de gestão para pet shop (login, cadastro de animais e agendamento de serviços). Desenvolvi a tela principal | Java, Java Swing |
 
-_Mais projetos em Python e Java chegando em breve._
+_Mais projetos chegando em breve._
 
 ## 📫 Contato
 
