@@ -22,7 +22,8 @@ Estudante de **Engenharia de Software** no Centro Universitário Fametro, em Man
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Zafir-site](https://github.com/Vitorzz1212/Zafir-site) | Landing page desenvolvida para a loja Zafir (projeto para cliente) | HTML, CSS, JavaScript |
+| [Liga Manager](https://github.com/mrvinicius25/liga-manager) | App desktop para gerenciar campeonatos de futebol: cadastro de equipes, geração de confrontos, placares e classificação automática. Projeto em dupla: implementei as classes `Equipe` e `Partida` e a tela de partidas e resultados | Python, CustomTkinter, POO, JSON, unittest |
+| [Zafir-site](https://github.com/Vitorzz1212/Zafir-site) · [ver online](https://zafir-perfumaria.vercel.app) | Landing page desenvolvida para a loja Zafir (projeto para cliente) | HTML, CSS, JavaScript |
 
 _Mais projetos em Python e Java chegando em breve._
 
